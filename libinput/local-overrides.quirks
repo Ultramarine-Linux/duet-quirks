@@ -1,0 +1,4 @@
+[Touchpad pressure override]
+MatchUdevType=touchpad
+MatchName=Google Inc. Hammer
+AttrPressureRange=20:10
